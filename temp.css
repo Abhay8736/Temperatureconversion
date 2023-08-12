@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    box-sizing: border-box;
+}
+.container{
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    background: #913b3b;
+    background-color: rgb(218, 214, 29);
+    border: #913b3b;
+    box-sizing: border-box;
+    color: rgb(65, 57, 71);
+    border-radius: 20%;
+    align-items: center;
+}
+input{
+    background-color: aqua;
+}
+
+ 
+
